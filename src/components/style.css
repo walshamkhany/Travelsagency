@@ -1,0 +1,55 @@
+button {
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.next-btn {
+  background: linear-gradient(125deg, #5132e2 0%, #6a2ee5 50%, #8329e9 100%);
+  color: white;
+  padding: 18px 45px;
+}
+
+.back-btn {
+  background-color: white;
+  color: black;
+  border: 1px solid #ebebeb;
+  padding: 18px 45px;
+}
+
+.icon-text-btn {
+  background-color: #ebebeb;
+  color: black;
+  padding: 18px 35px;
+}
+
+.component-space {
+  margin-bottom: 25px;
+  padding-bottom: 5px;
+}
+
+.review-body {
+  background-color: #f3f3f3;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.review-body .component-space button {
+  background: linear-gradient(125deg, #5132e2 0%, #6a2ee5 50%, #8329e9 100%);
+  color: white;
+}
+
+.review-title {
+  color: #6a2ee5;
+}
+
+.edit-icon {
+  color: #6a2ee5;
+}
+.img-icon {
+  position: relative;
+  left: 30px;
+  top: 3px;
+  width: 20px;
+}
